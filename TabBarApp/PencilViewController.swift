@@ -8,8 +8,4 @@
 import UIKit
 
 class PencilViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
 }

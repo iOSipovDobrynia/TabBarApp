@@ -8,8 +8,4 @@
 import UIKit
 
 class LassoViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
 }
